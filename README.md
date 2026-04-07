@@ -1,31 +1,11 @@
-AI Market Trend Analysis (LSTM Model)
-📌 Overview
+# AI Market Trend Analysis
 
-This project uses a Long Short-Term Memory (LSTM) deep learning model to predict stock price trends for Nifty 50 companies using historical market data.
-
-🚀 Features
-Predicts stock price trends using LSTM model
-Generates Buy/Sell/Hold signals
-Uses technical indicators like EMA, RSI, MACD
-Visualizes trends using charts
-🛠️ Tech Stack
-Python
-TensorFlow
-Pandas, NumPy
-yfinance
-Matplotlib
-Streamlit (optional)
-📊 Data Source
-Yahoo Finance (via yfinance API)
-▶️ How to Run
-Install dependencies:
-pip install -r requirements.txt
-Run the script:
-python main.py
-📈 Output
-Stock trend predictions
-Visual charts
-Trading signals
-👨‍💻 Author
+## 👨‍💻 Author
 
 Akshay Hariya
+
+## 📌 Overview
+
+This project demonstrates an end-to-end machine learning pipeline for predicting stock market trends using technical indicators and multiple ML models.
+
+It focuses on applying data science techniques to financial markets, combining domain expertise in finance with machine learning.
